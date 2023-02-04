@@ -1,8 +1,1 @@
-
-#!/bin/bash
-<<<<<<< HEAD
-echo "the school is open"
-=======
-echo "the school is open"
->>>>>>> c621516f044a60467ee57c7cad34b40770e624f1
-
+the school is open
